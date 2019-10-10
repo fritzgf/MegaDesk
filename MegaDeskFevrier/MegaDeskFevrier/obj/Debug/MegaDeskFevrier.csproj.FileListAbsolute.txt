@@ -1,0 +1,10 @@
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\bin\Debug\MegaDeskFevrier.exe.config
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\bin\Debug\MegaDeskFevrier.exe
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\bin\Debug\MegaDeskFevrier.pdb
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.csprojAssemblyReference.cache
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.Form1.resources
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.Properties.Resources.resources
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.csproj.GenerateResource.cache
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.csproj.CoreCompileInputs.cache
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.exe
+C:\Users\fgfev\Documents\GitHub\MegaDeskFevrier\MegaDeskFevrier\obj\Debug\MegaDeskFevrier.pdb
